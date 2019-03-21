@@ -1,0 +1,38 @@
+body{
+	background-color: black;
+}
+h1, p{
+	color:white ;
+	font-family: oswald ;
+	display: inline-block;
+	text-transform: uppercase;
+
+}
+p{
+	width:400px;
+	color:white;
+}
+h2{
+	color:white;
+	font-family: oswald;
+	font-size:20px;
+}
+.rood{
+	color:red;
+}
+.logo {
+	color:white;
+}
+
+nav ul li {
+	color:white;
+	display:inline-block;
+	padding:20px;
+}
+nav{
+	display:inline-block;
+}
+
+iframe{
+	float:right;
+}
